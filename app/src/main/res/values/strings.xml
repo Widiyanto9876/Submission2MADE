@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Beranda</string>
+    <string name="now_playing">Sedang dimainkan</string>
+    <string name="upcoming">Akan datang</string>
+    <string name="settings">Pengaturan</string>
+    <string name="search_val">spiderman</string>
+    <string name="search_hint">Cari</string>
+    <string name="detail">Detail</string>
+    <string name="detail_synopsis">Sinopsis</string>
+    <string name="detail_release">Keluaran</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
